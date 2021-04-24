@@ -28,7 +28,7 @@
 
     Pick your favorite api testing software to see the results!
 
-    Watch the instructional video [here](https://drive.google.com/file/d/1dmYscJ9Yoom-CFFe3xTSLGGaTr_YlUeQ/view?usp=sharing)
+    Watch the instructional video here: (https://drive.google.com/file/d/1dmYscJ9Yoom-CFFe3xTSLGGaTr_YlUeQ/view?usp=sharing)
 
 ## Contributions
 
