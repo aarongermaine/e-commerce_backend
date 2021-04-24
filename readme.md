@@ -1,6 +1,6 @@
 # E-Commerce Backend
 
-    A backend designed specifically for an e-commerce application using databases and api's to store and present data.
+    A backend designed specifically for an e-commerce application using databases and api's to store and present customizable data.
 
 # Table Of Contents
 
@@ -18,13 +18,17 @@
 
 ## Installation
 
-    TBA
+    Run "NPM I" in console to install all dependencies
+
+    Run "NPM RUN SEED" to seed the database
 
 ## Usage
 
-    TBA
+    Following installation run "NPM RUN START" in console to start the server
 
-    Watch the instructional video here: TBA
+    Pick your favorite api testing software to see the results!
+
+    Watch the instructional video here: https://drive.google.com/file/d/1dmYscJ9Yoom-CFFe3xTSLGGaTr_YlUeQ/view?usp=sharing
 
 ## Contributions
 
@@ -32,7 +36,7 @@
 
 ## Testing
 
-    TBA
+    All testing was done through Insomnia, I'd recommend the same!
 
 ## License
 
